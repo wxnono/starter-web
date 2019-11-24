@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+sdjflkwjeoirjoweijfojweofjwoeijfowiejfoijwefwefwefwe
 
 ## Purpose
 
@@ -10,6 +11,7 @@ ljwerjowejrowijerowjeorjwojroweijroi
 #####TEST
 A good life
 
+jsdjfoiwjeroijweofjweojfowejfowejofjwojfoiefoiwejf
 #######More TESTING
 
 lsjdfowiuerowieurouweoruoweiuroweurowieuroiweroiweuroweur
