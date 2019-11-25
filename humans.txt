@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Xin Wang xwang@gmai.com twitter
 
 # THANKS
 
