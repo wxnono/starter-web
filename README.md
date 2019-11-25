@@ -11,6 +11,13 @@ sajdfoiweoiruweuroiwuroiwurower
 osajfojdfosojdvoijsvoisjdv
 asojfdowiueroweujrojjfoasjfoi
 
+##HOW TO TREATE
+
+lksjdfoiwjeoifjowejif
+ojwoefjowijeoitjowjteowijotjweojtwet
+owijefoiwjeofjweojf
+
+
 
 Sample website with plenty of files for demos
 ljwerjowejrowijerowjeorjwojroweijroi
