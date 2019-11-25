@@ -5,6 +5,13 @@ sdjflkwjeoirjoweijfojweofjwoeijfowiejfoijwefwefwefwe
 
 ## Purpose
 
+### TESTING PURPORSE FOR GIT COMPARE
+
+sajdfoiweoiruweuroiwuroiwurower
+osajfojdfosojdvoijsvoisjdv
+asojfdowiueroweujrojjfoasjfoi
+
+
 Sample website with plenty of files for demos
 ljwerjowejrowijerowjeorjwojroweijroi
 
